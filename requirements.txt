@@ -1,0 +1,7 @@
+opencv-python
+torch
+torchvision
+facenet_pytorch
+Pillow
+pygame
+tqdm
